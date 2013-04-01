@@ -1,3 +1,16 @@
+0.3-2
+=================================
+2013-03-31
+
+Changelog:
+* Revamped the github homepage
+* Wrote a SourceForge scraper to more accurately monitor downloads
+* Updated to latest packages
+
+Feature To-do:
+* Replace buggy "Offline QR generator" addon with qr-send script
+
+
 0.3-1
 =================================
 2013-03-29
