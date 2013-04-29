@@ -1,3 +1,48 @@
+0.3-5
+================================
+2013-04-29
+
+Changelog:
+* Fixed adeskbar panel size with autosize script
+* Optimized bookmark panel for 1024px wide
+* Added a lot of new bookmarks
+* Added Firefox extensions: hide my ass, menu icons plus, offline qr generator, turn off the lights
+* Added Chrome extensions addthis, chrome to mobile, hide my ass, save to google drive, screen capture
+* Firefox 20.0.1 & Google Chrome 28.0.1485.0 dev
+* Updated to linux kernel 3.8.10
+* Added blog posts
+* Revised homepage again
+
+Known bugs:
+* Lockscreen wallpaper still cut off
+* Max resolution 1024x768 in QEMU
+* Setting -vga to vmware results in black screen
+
+
+0.3-4
+=================================
+2013-04-11
+
+Changelog:
+* Updated to latest packages
+* Added More in Content UI addon
+* Removed Offline QR generator addon
+* Added vmware drivers
+
+Known bugs:
+* Max resolution 1024x768 in QEMU
+* Setting -vga to vmware results in black screen
+
+
+0.3-3
+=================================
+2013-04-07
+
+Changelog:
+* Revised homepage again
+* Added social networking
+
+
 0.3-2
 =================================
 2013-03-31
